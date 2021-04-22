@@ -1,1 +1,5 @@
-Hallo
+git clone https://github.com/dvandeelen/RBPI4_OPS.git
+
+Question 4.2: Which version did pacman install?
+git --version: 2.30.2
+
